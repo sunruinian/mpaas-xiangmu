@@ -1,0 +1,1 @@
+<view ref="__r" data-ref="uni-refresh" hidden="{{!(isShow)}}" class="uni-refresh"><slot></slot></view>

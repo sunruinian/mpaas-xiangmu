@@ -1,16 +1,13 @@
 {
-	"pages": [
-		{
-			"path": "pages/index/index",
-			"style": {
-				"navigationBarTitleText": "uni-app"
-			}
+	"pages": [{
+			"path": "pages/news/index",
+			"style": {}
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#323239",
-		"backgroundColor": "#323239"
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "新闻资讯",
+		"navigationBarBackgroundColor": "#2F85FC",
+		"backgroundColor": "#FFFFFF"
 	}
 }

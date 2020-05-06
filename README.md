@@ -1,3 +1,19 @@
-# uniapp-template
+# csdndemo
 
-开发多端小程序教程，参考：https://help.aliyun.com/document_detail/130777.html
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

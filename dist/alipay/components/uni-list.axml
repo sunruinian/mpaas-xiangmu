@@ -1,0 +1,1 @@
+<scroll-view class="uni-list data-v-2ed649eb" scroll-y="{{scrollY}}" data-event-opts="{{[['scrollToLower',[['loadMore',['$event']]]]]}}" onScrollToLower="__e"><slot></slot></scroll-view>

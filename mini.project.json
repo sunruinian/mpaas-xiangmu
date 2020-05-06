@@ -1,10 +1,10 @@
 {
-  "brand": "uni-app",
-  "miniprogramRoot": "dist/dev/mp-alipay",
+  "brand": "mPaaS-uniapp",
+  "miniprogramRoot": "dist/alipay",
   "scripts": {
-    "beforeCompile": "npm run alidev:mp-alipay -- --watch",
-    "beforePreview": "npm run alidev:mp-alipay",
-    "beforeUpload": "npm run alibuild:mp-alipay"
+    "beforeCompile": "npm run dev:mp-alipay",
+    "beforePreview": "npm run build:mp-alipay",
+    "beforeUpload": "npm run build:mp-alipay"
   },
   "exclude": [
     "src/**",
@@ -20,7 +20,7 @@
     "selfWatch": true,
     "restart": true,
     "exclude": [
-      "dist/**",
+      "dist/alipay/**",
       "*.md"
     ],
     "ignoreBuiltInExts": false

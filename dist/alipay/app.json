@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/news/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "新闻资讯",
+    "titleBarColor": "#2F85FC",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}
